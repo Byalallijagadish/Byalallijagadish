@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Fraud Transection Detection*
+- 🔭 I’m currently working on *Automated Urban Infrastructure Classification Using Aerial Imagery *
 
 - 🌱 I’m currently learning *NLP.*
 
