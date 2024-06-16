@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Recently Worked On Deep Learning End-to-End Project *Automated Urban Infrastructure Classification Using Aerial Imagery *
+- 🔭 Recently Worked On Deep Learning End-to-End Project *Automated Urban Infrastructure Classification Using Aerial Imagery * Accepeted By IEEE Conference.
 
 - 🌱 I’m currently learning *GenAI*
 
