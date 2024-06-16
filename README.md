@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Automated Urban Infrastructure Classification Using Aerial Imagery *
+- 🔭 Recently Worked On Deep Learning End-to-End Project *Automated Urban Infrastructure Classification Using Aerial Imagery *
 
-- 🌱 I’m currently learning *NLP.*
+- 🌱 I’m currently learning *GenAI*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Byalallijagadish?tab=repositories](https://github.com/Byalallijagadish?tab=repositories)
 
-- 💬 Ask me about *Python, Power BI ,Data Analysis, Power BI ,ML ,DL*
+- 💬 Ask me about *Python, Power BI ,Data Analysis, Power BI ,ML ,DL *
 
 - 📫 How to reach me *bjagadish1810@gmail.com*
 
